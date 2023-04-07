@@ -23,8 +23,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.03*: &nbsp;🎉🎉 One paper is accepted by WTC 2023! 
 
 # 📝 Publications 
 
@@ -47,12 +46,15 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - present*, Ph.D. candidate, Urban Planning, Tongji University. 
+- *2019.09 - 2022.07*, Master of Engineering (M.E.), Urban Planning, Tongji University. 
+- *2014.09 - 2019.06*, Bachelor of Engineering (B.E.), Urban Planning, Beijing Jiaotong University. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2021.02 - 2021.05*, Assistant urban planner, Shenzhen Urban Transport Planning Center, Shenzhen (SUTPC), Shenzhen, China. (full-time internship)
+- *2019.09 - 2022.08*, Assistant urban planner, Shanghai Tongji Urban Planning & Design Institute (TJUPDI), Shanghai, China. (part-time internship)
+- *2019.09 - 2022.01*, Undergraduate teaching assisstant, Tongji University, Shanghai, China.
