@@ -33,7 +33,8 @@ My research interest includes neural machine translation and computer vision. I 
 - *2019.09 - 2022.01*, Undergraduate teaching assisstant, Tongji University, Shanghai, China.
 
 # 🔥 News
-- *2023.03*: &nbsp;🎉🎉 One paper is accepted by WTC 2023! 
+- *2023.03*: &nbsp;🎉🎉 One paper is accepted by WTC 2023!
+- *2022.11*: &nbsp;🎉🎉 One paper is accepted by the 2nd International Workshop on High-Speed Rail Socioeconomic Impacts, University of Naples Federco II, Italy!
 
 # 📝 Publications 
 
@@ -51,10 +52,15 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎖 Scholarships and honors
+- *2022.06*, Outstanding graduate, Tongji University.
+- *2021.11*, Social activity Scholarship for graduate students 2020-2021, Tongji University.
+- *2019.06*, Outstanding graduate (undergraduate), Beijing Jiaotong University. 
+- *2019.06*, Outstanding graduate (undergraduate), the Municipal city of Beijing.
+- *2017.12*, National Scholarship 2016-2017, the Ministry of Education of the P. R. China.
+- *2016.12*, Zhaokun Scholarship 2015-2016, Beijing Jiaotong University.
+- *2015.12*, National Scholarship 2014-2015, the Ministry of Education of the P. R. China.
 
-# 💬 Invited Talks
+# 💬 Other academic activities
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
