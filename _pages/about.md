@@ -22,6 +22,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
+# 📖 Educations
+- *2022.09 - present*, Ph.D. candidate, Urban Planning, Tongji University, Shanghai, China.
+- *2019.09 - 2022.07*, Master of Engineering (M.E.), Urban Planning, Tongji University, Shanghai, China.
+- *2014.09 - 2019.06*, Bachelor of Engineering (B.E.), Urban Planning, Beijing Jiaotong University, Beijing, China.
+
+# 💻 Internships
+- *2021.02 - 2021.05*, Assistant urban planner, Shenzhen Urban Transport Planning Center, Shenzhen (SUTPC), Shenzhen, China. (full-time internship)
+- *2019.09 - 2022.08*, Assistant urban planner, Shanghai Tongji Urban Planning & Design Institute (TJUPDI), Shanghai, China. (part-time internship)
+- *2019.09 - 2022.01*, Undergraduate teaching assisstant, Tongji University, Shanghai, China.
+
 # 🔥 News
 - *2023.03*: &nbsp;🎉🎉 One paper is accepted by WTC 2023! 
 
@@ -45,16 +55,6 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2022.09 - present*, Ph.D. candidate, Urban Planning, Tongji University. 
-- *2019.09 - 2022.07*, Master of Engineering (M.E.), Urban Planning, Tongji University. 
-- *2014.09 - 2019.06*, Bachelor of Engineering (B.E.), Urban Planning, Beijing Jiaotong University. 
-
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2021.02 - 2021.05*, Assistant urban planner, Shenzhen Urban Transport Planning Center, Shenzhen (SUTPC), Shenzhen, China. (full-time internship)
-- *2019.09 - 2022.08*, Assistant urban planner, Shanghai Tongji Urban Planning & Design Institute (TJUPDI), Shanghai, China. (part-time internship)
-- *2019.09 - 2022.01*, Undergraduate teaching assisstant, Tongji University, Shanghai, China.
