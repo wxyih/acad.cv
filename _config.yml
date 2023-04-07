@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Xinyi Wang (王欣宜)"
+description              : "a first-year Ph.D. candidate in urban planning at Tongji University. "
+repository               : "wxyih/wxyih.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Xinyi Wang (王欣宜)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  bio              : "Tongji University"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    :  # e.g., "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  email            : "xywang_@tongji.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Xinyi-Wang-192"
   uri              :
   bitbucket        :
   codepen          :
@@ -43,9 +43,9 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "Xinyi WANG"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-3889-5861"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
