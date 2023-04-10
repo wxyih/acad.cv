@@ -52,7 +52,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- **Xinyi Wang**, Yuqing Tang. [Measuring Coordinated Development Level around Metro Station Areas in New Towns in Megacity: A Comparative Analysis of Five New Towns in Shanghai]([https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12249/122492L/Measuring-coordinated-development-level-around-metro-station-areas-in-new/10.1117/12.2637156.short?tab=ArticleLink&SSO=1]), DOI: 10.1117/12.2637156, **IoTSC 2022**.
 
 # 🎖 Scholarships and honors
 - *2022.06*, Outstanding Graduate, Tongji University.
@@ -64,6 +64,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2015.12*, National Scholarship 2014-2015, the Ministry of Education of the P. R. China.
 
 # 💬 Other academic activities
+- *2020.11 - 2020.12*, Research assistant (voluntary) at Lab for Digital & Mobile Governance (DMG), Fudan University, Shanghai, China.
 - *2018.09*, Outstanding student at 2018 Summer school, College of Architecture and Urban Planning, Tongji University, Shanghai, China.
 - *2018.07*, Outstanding student at 2018 Summer school, School of Architecture and Urban Planning, Chongqing University, Chongqing, China.
 - *2018.07*, Outstanding student at 2018 Summer school, School of Architecture and Design, Beijing Jiaotong University, Beijing, China.
