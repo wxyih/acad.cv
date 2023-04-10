@@ -52,11 +52,9 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-<ol>
-<li> **Xinyi Wang**, Haixiao Pan. Spatial Heterogeneity Characteristics of Location and Public Transport Accessibility in High-speed Railway Stations: An Analysis of Shanghai. 2023 World Transport Convention (**WTC 2023**). Wuhan, China, 2023-06. [Chinese]</li>
-<li> Haixiao Pan, **Xinyi Wang**, Ya Gao, Song Ye, Minglei Chen, Yuqing Tang. Site Selection of High-speed Railway Stations on Travel Efficiency: An Example of Shanghai Hongqiao Hub. 2nd International Workshop on High-Speed Rail Socioeconomic Impacts, Naples, Italy, 2022-11.</li>
-<li> **Xinyi Wang**, Yuqing Tang. Measuring Coordinated Development Level around Metro Station Areas in New Towns in Megacity: A Comparative Analysis of Five New Towns in Shanghai. 2022 2nd International Conference on Internet of Things and Smart City (**IoTSC 2022**). Xiamen, China, 2022-02, 122492L. [DOI: 10.1117/12.2637156](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12249/122492L/Measuring-coordinated-development-level-around-metro-station-areas-in-new/10.1117/12.2637156.short?tab=ArticleLink&SSO=1).</li>
-</ol>
+1. **Xinyi Wang**, Haixiao Pan. Spatial Heterogeneity Characteristics of Location and Public Transport Accessibility in High-speed Railway Stations: An Analysis of Shanghai. 2023 World Transport Convention (**WTC 2023**). Wuhan, China, 2023-06. [Chinese]</li>
+2. Haixiao Pan, **Xinyi Wang**, Ya Gao, Song Ye, Minglei Chen, Yuqing Tang. Site Selection of High-speed Railway Stations on Travel Efficiency: An Example of Shanghai Hongqiao Hub. 2nd International Workshop on High-Speed Rail Socioeconomic Impacts, Naples, Italy, 2022-11.</li>
+3. **Xinyi Wang**, Yuqing Tang. Measuring Coordinated Development Level around Metro Station Areas in New Towns in Megacity: A Comparative Analysis of Five New Towns in Shanghai. 2022 2nd International Conference on Internet of Things and Smart City (**IoTSC 2022**). Xiamen, China, 2022-02, 122492L. [DOI: 10.1117/12.2637156](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12249/122492L/Measuring-coordinated-development-level-around-metro-station-areas-in-new/10.1117/12.2637156.short?tab=ArticleLink&SSO=1).</li>
   
 # 🎖 Scholarships and honors
 - *2022.06*, Outstanding Graduate, Tongji University.
