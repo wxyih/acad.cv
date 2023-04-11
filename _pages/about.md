@@ -53,10 +53,10 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-1. **Xinyi Wang**, Haixiao Pan, Jingjie Cui. Spatial Distribution and Transport Accessibility Disparities of Knowledge-intensive Services (KIS): Evidence from Shanghai. *International Association for China Planning (**IACP 2023**)*. Tianjin, China, 2023-07.
+1. **Xinyi Wang**, Haixiao Pan, Jingjie Cui. Spatial Distribution and Transport Accessibility Disparities of Knowledge-intensive Services (KIS): Evidence from Shanghai. *17th International Association for China Planning (**IACP 2023**) Conference*. Tianjin, China, 2023-07.
 2. **Xinyi Wang**, Haixiao Pan. Spatial Heterogeneity Characteristics of Location and Public Transport Accessibility in High-speed Railway Stations: An Analysis of Shanghai. *2023 World Transport Convention (**WTC 2023**)*. Wuhan, China, 2023-06.
 **王欣宜**,潘海啸. 高铁站区位与公交服务可达性的空间分异特征研究——以上海为例. *2023世界交通运输大会摘要集*. 中国武汉, 2023-06.
-2. Haixiao Pan, **Xinyi Wang**, Ya Gao, Song Ye, Minglei Chen, Yuqing Tang. Site Selection of High-speed Railway Stations on Travel Efficiency: An Example of Shanghai Hongqiao Hub. *2nd International Workshop on High-Speed Rail Socioeconomic Impacts*, Naples, Italy, 2022-09.
+2. Haixiao Pan, **Xinyi Wang**, Ya Gao, Song Ye, Minglei Chen. Site Selection of High-speed Railway Stations on Travel Efficiency: An Example of Shanghai Hongqiao Hub. *2nd International Workshop on High-Speed Rail Socioeconomic Impacts*, Naples, Italy, 2022-09.
 3. **Xinyi Wang**, Yuqing Tang. Measuring Coordinated Development Level around Metro Station Areas in New Towns in Megacity: A Comparative Analysis of Five New Towns in Shanghai. *2022 2nd International Conference on Internet of Things and Smart City (**IoTSC 2022**)*. Xiamen, China, 2022-02, 122492L. [DOI: 10.1117/12.2637156](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12249/122492L/Measuring-coordinated-development-level-around-metro-station-areas-in-new/10.1117/12.2637156.short?tab=ArticleLink&SSO=1).
 4. **Xinyi Wang**, Yin Dou. Measurement and Evaluation of Public Transport Accessibility in Community Life Circle: A Case Study of Yangpu, Shanghai. *2021/2022 Annual Conference on Urban Transportation Planning in China*. Shanghai, China, 2022, 296-307. [DOI: 10.26914/c.cnkihy.2022.059103](https://doi.org/10.26914/c.cnkihy.2022.059103).
 **王欣宜**,窦寅. 社区生活圈公共交通可达性的测度优化与评价——以上海市杨浦区居住小区为例. *2021/2022年中国城市交通规划年会论文集*. 中国上海, 2022-11.（获评会议“优秀论文”）
