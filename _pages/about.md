@@ -37,7 +37,8 @@ My research interest includes neural machine translation and computer vision. I 
 # 🔥 News
 - *2023.04*: &nbsp;🎉🎉 An abstract is accepted by IACP 2023 (International Association for China Planning, Tianjin, China)!
 - *2023.03*: &nbsp;🎉🎉 An abstract is accepted by WTC 2023 (World Transport Convention, Wuhan, China)!
-- *2022.11*: &nbsp;🎉🎉 A paper is accepted by the 2nd International Workshop on High-Speed Rail Socioeconomic Impacts (University of Naples Federco II, Italy)!
+- *2022.11*: &nbsp;🎉🎉 A paper is accepted by the 2nd International Workshop on High-Speed Rail Socioeconomic Impacts (University of Naples Federco II, Italy, online)!
+- *2022.11*: &nbsp;🎉🎉 Conference paper *"Measurement and Evaluation of Public Transport Accessibility in Community Life Circle: A Case Study of Yangpu, Shanghai"* is awarded as the **"Excellent paper"** in 2021/2022 Annual Conference on Urban Transportation Planning in China (Shanghai, China)!
 
 # 📝 Publications 
 
