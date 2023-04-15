@@ -23,22 +23,22 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 📖 Educations
-- *2022.09 - present*, Ph.D. candidate, Urban Planning, Tongji University, Shanghai, China.
-- *2019.09 - 2022.07*, Master of Engineering (M.Eng.), Urban Planning, Tongji University, Shanghai, China.
-- *2014.09 - 2019.06*, Bachelor of Engineering (B.Eng.), Urban Planning, Beijing Jiaotong University, Beijing, China.
+- *2022/09 - present*, Ph.D. candidate, Urban Planning, Tongji University, Shanghai, China.
+- *2019/09 - 2022/07*, Master of Engineering (M.Eng.), Urban Planning, Tongji University, Shanghai, China.
+- *2014/09 - 2019/06*, Bachelor of Engineering (B.Eng.), Urban Planning, Beijing Jiaotong University, Beijing, China.
 
 # 💻 Internships
-- *2021.02 - 2021.05*, Assistant urban planner, Shenzhen Urban Transport Planning Center (SUTPC), Shenzhen, China. (full-time internship)
-- *2019.09 - 2022.08*, Assistant urban planner, Shanghai Tongji Urban Planning & Design Institute (TJUPDI), Shanghai, China. (part-time internship)
-- *2019.09 - 2022.01*, Undergraduate teaching assisstant, Tongji University, Shanghai, China.
-- *2018.11 - 2018.12*, Assistant urban planner, China Architecture Design & Research Group (CADG), Beijing, China. (full-time internship)
-- *2017.07 - 2017.08*, Assistant urban planner, China Architecture Design & Research Group (CADG), Beijing, China. (full-time internship)
+- *2021/02 - 2021/05*, Assistant urban planner, Shenzhen Urban Transport Planning Center (SUTPC), Shenzhen, China. (full-time internship)
+- *2019/09 - 2022/08*, Assistant urban planner, Shanghai Tongji Urban Planning & Design Institute (TJUPDI), Shanghai, China. (part-time internship)
+- *2019/09 - 2022/01*, Undergraduate teaching assisstant, Tongji University, Shanghai, China.
+- *2018/11 - 2018/12*, Assistant urban planner, China Architecture Design & Research Group (CADG), Beijing, China. (full-time internship)
+- *2017/07 - 2017/08*, Assistant urban planner, China Architecture Design & Research Group (CADG), Beijing, China. (full-time internship)
 
 # 🔥 News
-- *2023.04*: &nbsp;🎉🎉 An abstract is accepted by IACP 2023 (International Association for China Planning, Tianjin, China)!
-- *2023.03*: &nbsp;🎉🎉 An abstract is accepted by WTC 2023 (World Transport Convention, Wuhan, China)!
-- *2022.11*: &nbsp;🎉🎉 A paper is accepted by the 2nd International Workshop on High-Speed Rail Socioeconomic Impacts (University of Naples Federco II, Italy, online)!
-- *2022.11*: &nbsp;🎉🎉 Conference paper *"Measurement and Evaluation of Public Transport Accessibility in Community Life Circle: A Case Study of Yangpu, Shanghai"* is awarded as the **"Excellent paper"** in 2021/2022 Annual Conference on Urban Transportation Planning in China (Shanghai, China)!
+- *2023/04*: &nbsp;🎉🎉 An abstract is accepted by IACP 2023 (International Association for China Planning, Tianjin, China)!
+- *2023/03*: &nbsp;🎉🎉 An abstract is accepted by WTC 2023 (World Transport Convention, Wuhan, China)!
+- *2022/11*: &nbsp;🎉🎉 A paper is accepted by the 2nd International Workshop on High-Speed Rail Socioeconomic Impacts (University of Naples Federco II, Italy, online)!
+- *2022/11*: &nbsp;🎉🎉 Conference paper *"Measurement and Evaluation of Public Transport Accessibility in Community Life Circle: A Case Study of Yangpu, Shanghai"* is awarded as the **"Excellent paper"** in 2021/2022 Annual Conference on Urban Transportation Planning in China (Shanghai, China)!
 
 # 📝 Publications 
 
@@ -71,18 +71,18 @@ My research interest includes neural machine translation and computer vision. I 
 
   
 # 🎖 Scholarships and honors
-- *2022.06*, Outstanding Graduate, Tongji University.
-- *2021.11*, Social Activity Scholarship for graduate students 2020-2021, Tongji University.
-- *2019.06*, Outstanding Graduate (Undergraduate), Beijing Jiaotong University. 
-- *2019.06*, Outstanding Graduate (Undergraduate), the Municipal city of Beijing.
-- *2017.12*, National Scholarship 2016-2017, the Ministry of Education of the P. R. China.
-- *2016.12*, Zhaokun Scholarship 2015-2016, Beijing Jiaotong University.
-- *2015.12*, National Scholarship 2014-2015, the Ministry of Education of the P. R. China.
+- *2022/06*, Outstanding Graduate, Tongji University.
+- *2021/11*, Social Activity Scholarship for graduate students 2020-2021, Tongji University.
+- *2019/06*, Outstanding Graduate (Undergraduate), Beijing Jiaotong University. 
+- *2019/06*, Outstanding Graduate (Undergraduate), the Municipal city of Beijing.
+- *2017/12*, National Scholarship 2016-2017, the Ministry of Education of the P. R. China.
+- *2016/12*, Zhaokun Scholarship 2015-2016, Beijing Jiaotong University.
+- *2015/12*, National Scholarship 2014-2015, the Ministry of Education of the P. R. China.
 
 # 💬 Other academic activities
-- *2020.11 - 2020.12*, Research assistant (voluntary) at Lab for Digital & Mobile Governance (DMG), Fudan University, Shanghai, China.
-- *2018.09*, Outstanding student at 2018 Summer school, College of Architecture and Urban Planning, Tongji University, Shanghai, China.
-- *2018.07*, Outstanding student at 2018 Summer school, School of Architecture and Urban Planning, Chongqing University, Chongqing, China.
-- *2018.07*, Outstanding student at 2018 Summer school, School of Architecture and Design, Beijing Jiaotong University, Beijing, China.
-- *2016.07*, Volunteer at the 10th International Association for China Planning (IACP) Conference, Beijing, China. 
-- *2015.06*, Volunteer at the 2nd Beijing City Lab (BCL) Annual Conference, Beijing, China.  \| [\[video\]](https://github.com/)
+- *2020/11 - 2020/12*, Research assistant (voluntary) at Lab for Digital & Mobile Governance (DMG), Fudan University, Shanghai, China.
+- *2018/09*, Outstanding student at 2018 Summer school, College of Architecture and Urban Planning, Tongji University, Shanghai, China.
+- *2018/07*, Outstanding student at 2018 Summer school, School of Architecture and Urban Planning, Chongqing University, Chongqing, China.
+- *2018/07*, Outstanding student at 2018 Summer school, School of Architecture and Design, Beijing Jiaotong University, Beijing, China.
+- *2016/07*, Volunteer at the 10th International Association for China Planning (IACP) Conference, Beijing, China. 
+- *2015/06*, Volunteer at the 2nd Beijing City Lab (BCL) Annual Conference, Beijing, China.  \| [\[video\]](https://github.com/)
