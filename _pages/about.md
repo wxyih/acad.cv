@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+My doctoral research interests consist of 2 main components: the influence between the location of high-speed rail stations on urban spatial structure, and sustainable integrated mobility planning in communities and cities.
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
@@ -27,18 +27,23 @@ My research interest includes neural machine translation and computer vision. I 
 - *2019/09 - 2022/07*, Master of Engineering (M.Eng.), Urban Planning, Tongji University, Shanghai, China.
 - *2014/09 - 2019/06*, Bachelor of Engineering (B.Eng.), Urban Planning, Beijing Jiaotong University, Beijing, China.
 
-# 💻 Internships
-- *2021/02 - 2021/05*, Assistant urban planner, Shenzhen Urban Transport Planning Center (SUTPC), Shenzhen, China. (full-time internship)
+# 💻 Experience and Internships
+- *2023/09 - present*, Graduate teaching assisstant of the course "Urban Transport" at department of Urban Planning, Tongji University, Shanghai, China.
 - *2019/09 - 2022/08*, Assistant urban planner, Shanghai Tongji Urban Planning & Design Institute (TJUPDI), Shanghai, China. (part-time internship)
 - *2019/09 - 2022/01*, Undergraduate teaching assisstant, Tongji University, Shanghai, China.
+- *2021/02 - 2021/05*, Assistant urban planner, Shenzhen Urban Transport Planning Center (SUTPC), Shenzhen, China. (full-time internship)
 - *2018/11 - 2018/12*, Assistant urban planner, China Architecture Design & Research Group (CADG), Beijing, China. (full-time internship)
 - *2017/07 - 2017/08*, Assistant urban planner, China Architecture Design & Research Group (CADG), Beijing, China. (full-time internship)
 
 # 🔥 News
+- *2023/09*: &nbsp;🎉🎉 Presented a conference paper at IW-HSR 2023, Naples, Italy (remote)!
+- *2023/08*: &nbsp;🎉🎉 Volunteered at the summer design workshop on 15-minute barrier-free community life cycle!
 - *2023/07*: &nbsp;🎉🎉 Participated in 2023 TUM-THU Summer School in person (Tsinghua University)!
-- *2023/05*: &nbsp;🎉🎉 An abstract is accepted by the 3rd International Workshop on High-Speed Rail Socioeconomic Impacts (University of Naples Federco II, Italy, remote)!
-- *2023/04*: &nbsp;🎉🎉 An abstract is accepted by IACP 2023 (International Association for China Planning, Tianjin, China)!
-- *2023/03*: &nbsp;🎉🎉 An abstract is accepted by WTC 2023 (World Transport Convention, Wuhan, China)!
+- *2023/07*: &nbsp;🎉🎉 Presented a conference paper at IACP 2023, Tianjin University, Tianjin, China!
+- *2023/06*: &nbsp;🎉🎉 Presented a conference paper at WTC 2023, Wuhan, China!
+- *2023/05*: &nbsp;🎉🎉 An abstract is accepted by the 3rd International Workshop on High-Speed Rail Socioeconomic Impacts (IW-HSR 2023, University of Naples Federco II), Italy (remote)!
+- *2023/04*: &nbsp;🎉🎉 An abstract is accepted by International Association for China Planning (IACP 2023) Annual Conference, Tianjin, China!
+- *2023/03*: &nbsp;🎉🎉 An abstract is accepted by World Transport Convention (WTC 2023), Wuhan, China!
 - *2022/11*: &nbsp;🎉🎉 A paper is accepted by the 2nd International Workshop on High-Speed Rail Socioeconomic Impacts (University of Naples Federco II, Italy, remote)!
 - *2022/11*: &nbsp;🎉🎉 Conference paper *"Measurement and Evaluation of Public Transport Accessibility in Community Life Circle: A Case Study of Yangpu, Shanghai"* is awarded as the **"Excellent paper"** in 2021/2022 Annual Conference on Urban Transportation Planning in China (Shanghai, China)!
 
