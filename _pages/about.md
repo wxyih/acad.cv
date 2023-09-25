@@ -36,11 +36,11 @@ My research interest includes neural machine translation and computer vision. I 
 - *2017/07 - 2017/08*, Assistant urban planner, China Architecture Design & Research Group (CADG), Beijing, China. (full-time internship)
 
 # 🔥 News
-- *2023/09*: &nbsp;🎉🎉 Presented a conference paper at IW-HSR 2023, Naples, Italy (remote)!
+- *2023/09*: &nbsp;🎉🎉 Presented a conference paper at IW-HSR 2023 (Naples, Italy, remote)!
 - *2023/08*: &nbsp;🎉🎉 Volunteered at the summer design workshop on 15-minute barrier-free community life cycle!
 - *2023/07*: &nbsp;🎉🎉 Participated in 2023 TUM-THU Summer School in person (Tsinghua University)!
-- *2023/07*: &nbsp;🎉🎉 Presented a conference paper at IACP 2023, Tianjin University, Tianjin, China!
-- *2023/06*: &nbsp;🎉🎉 Presented a conference paper at WTC 2023, Wuhan, China!
+- *2023/07*: &nbsp;🎉🎉 Presented a conference paper at IACP 2023 (Tianjin University, Tianjin, China)!
+- *2023/06*: &nbsp;🎉🎉 Presented a conference paper at WTC 2023 (Wuhan, China)!
 - *2023/05*: &nbsp;🎉🎉 An abstract is accepted by the 3rd International Workshop on High-Speed Rail Socioeconomic Impacts (IW-HSR 2023, University of Naples Federco II), Italy (remote)!
 - *2023/04*: &nbsp;🎉🎉 An abstract is accepted by International Association for China Planning (IACP 2023) Annual Conference, Tianjin, China!
 - *2023/03*: &nbsp;🎉🎉 An abstract is accepted by World Transport Convention (WTC 2023), Wuhan, China!
@@ -66,7 +66,7 @@ Haixiao Pan, **Xinyi Wang**, Ya Gao, Song Ye, Minglei Chen
 1. **Xinyi Wang**, Haixiao Pan. How does the Opening of High-speed Rail (HSR) Affect the Land Cover Change in the Station Catchment Area? Empirical Research on Shanghai-Nanjing, Shanghai-Hangzhou, and Hangzhou-Ningbo HSR Corridors. *3rd International Workshop on High-Speed Rail Socioeconomic Impacts*, Naples, Italy (remote), 2023-09.
 2. **Xinyi Wang**, Haixiao Pan, Jingjie Cui. Spatial Distribution and Transport Accessibility Disparities of Knowledge-intensive Services (KIS): Evidence from Shanghai. *17th International Association for China Planning (**IACP 2023**) Conference*. Tianjin, China, 2023-07.
 2. **王欣宜**,潘海啸. 高铁站区位与公交服务可达性的空间分异特征研究——以上海为例. *2023世界交通运输大会摘要集*. 中国武汉, 2023-06.<br/>**Xinyi Wang**, Haixiao Pan. Spatial Heterogeneity Characteristics of Location and Public Transport Accessibility in High-speed Railway Stations: An Analysis of Shanghai. *2023 World Transport Convention (**WTC 2023**)*. Wuhan, China, 2023-06.
-3. Haixiao Pan, **Xinyi Wang**, Ya Gao, Song Ye, Minglei Chen. Site Selection of High-speed Railway Stations on Travel Efficiency: An Example of Shanghai Hongqiao Hub. *2nd International Workshop on High-Speed Rail Socioeconomic Impacts*, Naples , Italy (remote), 2022-09.
+3. Haixiao Pan, **Xinyi Wang**, Ya Gao, Song Ye, Minglei Chen. Site Selection of High-speed Railway Stations on Travel Efficiency: An Example of Shanghai Hongqiao Hub. *2nd International Workshop on High-Speed Rail Socioeconomic Impacts*, Naples , Italy (remote), 2023-05. DOI: [10.1007/978-3-031-26340-8_10](https://link.springer.com/chapter/10.1007/978-3-031-26340-8_10).
 
 ## Underground Space Development
 1. Yuqing Tang, **Xinyi Wang**, Xinzhen Wu, Yongcai Wu, Aosen Wu. Research on underground public space planning of metro station area based on the method of BIM+GIS: Taking Xietaizi metro station in Chongqing city as an example. *The 18th World Conference of the Associated Research Centers for the Urban Underground Space (**ACUUS 2023**)*. Singapore, 2023-11.
