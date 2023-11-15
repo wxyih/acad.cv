@@ -29,9 +29,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 💻 Experience and Internships
 - *2023/09 - present*, Graduate teaching assisstant of the course "Urban Transport" at department of Urban Planning, **Tongji University**, Shanghai, China.
-- *2019/09 - 2022/08*, Assistant urban planner, **Shanghai Tongji Urban Planning & Design Institute (TJUPDI)**, Shanghai, China. Participate in the [National Key R&D Program of China]: Research on coordinated planning of urban underground space development. (part-time internship)
+- *2019/09 - 2022/08*, Assistant urban planner, **Shanghai Tongji Urban Planning & Design Institute (TJUPDI)**, Shanghai, China. Participate in the <u>National Key R&D Program of China<u>: Research on coordinated planning of urban underground space development. (part-time internship)
 - *2019/09 - 2022/01*, Undergraduate teaching assisstant, **Tongji University**, Shanghai, China.
-- *2021/02 - 2021/05*, Assistant urban planner, **Shenzhen Urban Transport Planning Center (SUTPC)**, Shenzhen, China. Participate in [GEF6 China Sustainable Cities Integrated Approach Pilot]: Formulation and implementation of transit-oriented development strategy and project management support for Shenzhen, funded by **World Bank**. (full-time internship)
+- *2021/02 - 2021/05*, Assistant urban planner, **Shenzhen Urban Transport Planning Center (SUTPC)**, Shenzhen, China. Participate in <u>GEF6 China Sustainable Cities Integrated Approach Pilot<u>: Formulation and implementation of transit-oriented development strategy and project management support for Shenzhen, funded by **World Bank**. (full-time internship)
 
 # 🔥 News
 - *2023/10*: &nbsp;🎉🎉 Two paper is accepted by Transportation Research Board (TRB 2024), Washington D.C., the United States!
