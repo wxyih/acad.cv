@@ -37,7 +37,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021/02 - 2021/05*, Assistant urban planner, **Shenzhen Urban Transport Planning Center (SUTPC)**, Shenzhen, China. Participate in <u>GEF6 China Sustainable Cities Integrated Approach Pilot</u>: Formulation and implementation of transit-oriented development strategy and project management support for Shenzhen, funded by **World Bank**. (full-time internship)
 
 # 🔥 News
-- *2023/10*: &nbsp;🎉🎉 Two paper is accepted by Transportation Research Board (TRB 2024), Washington D.C., the United States!
+- *2023/10*: &nbsp;🎉🎉 Two papers are accepted by Transportation Research Board (TRB 2024), Washington D.C., the United States!
 - *2023/09*: &nbsp;🎉🎉 Presented a conference paper at IW-HSR 2023 (Naples, Italy, remote)!
 - *2023/08*: &nbsp;🎉🎉 Volunteered at the Summer Design Workshop on 15-Minute Barrier-Free Community Life Cycle in Caoyang, Shanghai!
 - *2023/07*: &nbsp;🎉🎉 Participated in 2023 TUM-THU Summer School in person (Tsinghua University)!
