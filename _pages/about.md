@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My doctoral research interests consist of 2 main components: the influence between the location of high-speed rail stations on urban spatial structure, and sustainable integrated mobility planning in communities and cities.
+Xinyi Wang is a PhD candidate and teaching assisstant for graduate students in the Department of Urban Planning at Tongji University. He received his M.E. in Urban and Rural Planning from Tongji University in 2022 and B.E. in Urban and Rural Planning from Beijing Jiaotong University in 2019. His research interests focus on two areas: the interaction between high-speed rail and urban built-up space, and accessibility planning in 15-mins cities.
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
@@ -29,13 +29,12 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 💻 Experience and Internships
 - *2023/09 - present*, Graduate teaching assisstant of the course "Urban Transport" at department of Urban Planning, Tongji University, Shanghai, China.
-- *2019/09 - 2022/08*, Assistant urban planner, Shanghai Tongji Urban Planning & Design Institute (TJUPDI), Shanghai, China. (part-time internship)
+- *2019/09 - 2022/08*, Assistant urban planner, Shanghai Tongji Urban Planning & Design Institute (TJUPDI), Shanghai, China. Participate in the National Key R&D Program of China: Research on coordinated planning of urban underground space development. (part-time internship)
 - *2019/09 - 2022/01*, Undergraduate teaching assisstant, Tongji University, Shanghai, China.
-- *2021/02 - 2021/05*, Assistant urban planner, Shenzhen Urban Transport Planning Center (SUTPC), Shenzhen, China. (full-time internship)
-- *2018/11 - 2018/12*, Assistant urban planner, China Architecture Design & Research Group (CADG), Beijing, China. (full-time internship)
-- *2017/07 - 2017/08*, Assistant urban planner, China Architecture Design & Research Group (CADG), Beijing, China. (full-time internship)
+- *2021/02 - 2021/05*, Assistant urban planner, Shenzhen Urban Transport Planning Center (SUTPC), Shenzhen, China. Participate in GEF6 China Sustainable Cities Integrated Approach Pilot: Formulation and implementation of transit-oriented development strategy and project management support for Shenzhen, funded by World Bank. (full-time internship)
 
 # 🔥 News
+- *2023/10*: &nbsp;🎉🎉 Two paper is accepted by Transportation Research Board (TRB 2024), Washington D.C., the United States!
 - *2023/09*: &nbsp;🎉🎉 Presented a conference paper at IW-HSR 2023 (Naples, Italy, remote)!
 - *2023/08*: &nbsp;🎉🎉 Volunteered at the summer design workshop on 15-minute barrier-free community life cycle!
 - *2023/07*: &nbsp;🎉🎉 Participated in 2023 TUM-THU Summer School in person (Tsinghua University)!
@@ -52,27 +51,27 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NEWEST</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Site Selection of High-speed Railway Stations on Travel Efficiency: An Example of Shanghai Hongqiao Hub](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12249/122492L/Measuring-coordinated-development-level-around-metro-station-areas-in-new/10.1117/12.2637156.short?tab=ArticleLink&SSO=1)
+[Site Selection of High-speed Railway Stations on Travel Efficiency: An Example of Shanghai Hongqiao Hub](https://link.springer.com/chapter/10.1007/978-3-031-26340-8_10)
 
-Haixiao Pan, **Xinyi Wang**, Ya Gao, Song Ye, Minglei Chen
+Pan, Haixiao., **Wang, Xinyi.**, Gao, Ya., Ye, Song., Chen, Minglei.
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. <br/>
-**Keywords:** High-speed Train, Shanghai, Travel Efficiency, Station Site Selection.
+**Keywords:** High-Speed Train, Shanghai, Travel Efficiency, Station Site Selection.
 </div>
 </div>
 
 ## HSR and Public Transport Accessibility
-1. **Xinyi Wang**, Haixiao Pan. How does the Opening of High-speed Rail (HSR) Affect the Land Cover Change in the Station Catchment Area? Empirical Research on Shanghai-Nanjing, Shanghai-Hangzhou, and Hangzhou-Ningbo HSR Corridors. *3rd International Workshop on High-Speed Rail Socioeconomic Impacts*, Naples, Italy (remote), 2023-09.
-2. **Xinyi Wang**, Haixiao Pan, Jingjie Cui. Spatial Distribution and Transport Accessibility Disparities of Knowledge-intensive Services (KIS): Evidence from Shanghai. *17th International Association for China Planning (**IACP 2023**) Conference*. Tianjin, China, 2023-07.
-2. **王欣宜**,潘海啸. 高铁站区位与公交服务可达性的空间分异特征研究——以上海为例. *2023世界交通运输大会摘要集*. 中国武汉, 2023-06.<br/>**Xinyi Wang**, Haixiao Pan. Spatial Heterogeneity Characteristics of Location and Public Transport Accessibility in High-speed Railway Stations: An Analysis of Shanghai. *2023 World Transport Convention (**WTC 2023**)*. Wuhan, China, 2023-06.
-3. Haixiao Pan, **Xinyi Wang**, Ya Gao, Song Ye, Minglei Chen. Site Selection of High-speed Railway Stations on Travel Efficiency: An Example of Shanghai Hongqiao Hub. *2nd International Workshop on High-Speed Rail Socioeconomic Impacts*, Naples , Italy (remote), 2023-05. DOI: [10.1007/978-3-031-26340-8_10](https://link.springer.com/chapter/10.1007/978-3-031-26340-8_10).
+1. **Wang, Xinyi.**, Pan, Haixiao. (2024). Land Change Pattern in High-Speed Rail Station Area: Empirical Research on Yangtze River Delta Region in China from 2010 to 2020. In *Socioeconomic Impacts of High-Speed Rail Systems*.
+2. **Wang, Xinyi.**, Pan, Haixiao., & Cui, Jingjie. (2023). Spatial Distribution and Transport Accessibility Disparities of Knowledge-intensive Services (KIS): Evidence from Shanghai. *17th International Association for China Planning (**IACP 2023**) Conference*. Tianjin, China, 2023-07.
+2. **王欣宜**,潘海啸. 高铁站区位与公交服务可达性的空间分异特征研究——以上海为例. *2023世界交通运输大会摘要集*. 中国武汉, 2023-06.<br/>**Wang, Xinyi.**, Pan, Haixiao. (2023). Spatial Heterogeneity Characteristics of Location and Public Transport Accessibility in High-speed Railway Stations: An Analysis of Shanghai. *2023 World Transport Convention (**WTC 2023**)*. Wuhan, China, 2023-06.
+3. Pan, Haixiao., **Wang, Xinyi.**, Gao, Ya., Ye, Song., & Chen, Minglei. (2023). Site Selection of High-speed Railway Stations on Travel Efficiency: An Example of Shanghai Hongqiao Hub. In *Socioeconomic Impacts of High-Speed Rail Systems*, 153-176. DOI: [10.1007/978-3-031-26340-8_10](https://link.springer.com/chapter/10.1007/978-3-031-26340-8_10).
 
 ## Underground Space Development
-1. Yuqing Tang, **Xinyi Wang**, Xinzhen Wu, Yongcai Wu, Aosen Wu. Research on underground public space planning of metro station area based on the method of BIM+GIS: Taking Xietaizi metro station in Chongqing city as an example. *The 18th World Conference of the Associated Research Centers for the Urban Underground Space (**ACUUS 2023**)*. Singapore, 2023-11.
+1. Tang, Yuqing., **Wang, Xinyi.**, Wu, Xinzhen., Wu, Yongcai., & Wu, Aosen. (2023). Research on underground public space planning of metro station area based on the method of BIM+GIS: Taking Xietaizi metro station in Chongqing city as an example. In *The 18th World Conference of the Associated Research Centers for the Urban Underground Space (**ACUUS 2023**)*. Singapore, 2023-11.
 2. 汤宇卿,王梦雯,吴新珍,**王欣宜**. 面向有机更新的城市旧区地下空间规划策略和布局模式研究. *规划师*, 2022, 38(02): 137-142. DOI: [10.3969/j.issn.1006-0022.2022.02.019](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_XVB-xBoIsd8fu2K0lXD3yjk4I92PgmkIEQdI1s3mYtvL&uniplatform=NZKPT).<br/>Yuqing Tang, Mengwen Wang, Xinzhen Wu, **Xinyi Wang**. Strategy and Layout of Underground Space Planning for Organic Renewal in Old Urban Areas. *Planners*, 2022, 38(2), 137-142. DOI: [10.3969/j.issn.1006-0022.2022.02.019](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_XVB-xBoIsd8fu2K0lXD3yjk4I92PgmkIEQdI1s3mYtvL&uniplatform=NZKPT).
 3. **王欣宜**,汤宇卿. 城市轨道交通站域地下步行系统开发研究——国际实践与上海探索. *2021中国城市规划年会论文集*. 中国成都, 2021-09. DOI: [10.26914/c.cnkihy.2021.037332](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C467SBiOvrai6TdxYiSzCnOEEIKB-6S51JyFOld47yB1sKgi83M_Pv5h1MawWhZJgp7Z9XGAfpuqFJPlxeFRrFF4p0yhG_Wxq6g%3d&uniplatform=NZKPT).<br/>**Xinyi Wang**, Yuqing Tang. Research on Underground Walking System Development of urban Rail Transit Station: International Practice and Shanghai Exploration. *2021 Annual Conference on Urban Planning in China*. Chengdu, China, 2021-09. DOI: [10.26914/c.cnkihy.2021.037332](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C467SBiOvrai6TdxYiSzCnOEEIKB-6S51JyFOld47yB1sKgi83M_Pv5h1MawWhZJgp7Z9XGAfpuqFJPlxeFRrFF4p0yhG_Wxq6g%3d&uniplatform=NZKPT).
-4. **王欣宜**,汤宇卿. 城市空间平疫转换适宜性评价指标体系研究. *2020中国城市规划年会论文集*. 中国成都, 2021-09. DOI: [10.26914/c.cnkihy.2021.029783](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C467SBiOvrai6TdxYiSzCnOEEIKB-6S51JyFOld47yB1sKgi83M_Pv5hNHuxjo5xn7y6hHI-q-89se1Rt1-aBjs2NNBTKmXo5_g%3d&uniplatform=NZKPT).<br/>**Xinyi Wang**, Yuqing Tang. Study on Index System of Suitability Evaluation for Urban Spatial Epidemic Transformation. *2020 Annual Conference on Urban Planning in China. Chengdu*, China, 2021-09. DOI: [10.26914/c.cnkihy.2021.029783](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C467SBiOvrai6TdxYiSzCnOEEIKB-6S51JyFOld47yB1sKgi83M_Pv5hNHuxjo5xn7y6hHI-q-89se1Rt1-aBjs2NNBTKmXo5_g%3d&uniplatform=NZKPT).
+4. **王欣宜**,汤宇卿. 城市空间平疫转换适宜性评价指标体系研究. *2020中国城市规划年会论文集*. 中国成都, 2021-09. DOI: [10.26914/c.cnkihy.2021.029783](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C467SBiOvrai6TdxYiSzCnOEEIKB-6S51JyFOld47yB1sKgi83M_Pv5hNHuxjo5xn7y6hHI-q-89se1Rt1-aBjs2NNBTKmXo5_g%3d&uniplatform=NZKPT).<br/>**Xinyi Wang**, Yuqing Tang. Study on Index System of Suitability Evaluation for Urban Spatial Epidemic Transformation. *2020 Annual Conference on Urban Planning in China*. Chengdu, China, 2021-09. DOI: [10.26914/c.cnkihy.2021.029783](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C467SBiOvrai6TdxYiSzCnOEEIKB-6S51JyFOld47yB1sKgi83M_Pv5hNHuxjo5xn7y6hHI-q-89se1Rt1-aBjs2NNBTKmXo5_g%3d&uniplatform=NZKPT).
 5. **王欣宜**,汤宇卿.面对突发公共卫生事件的平疫空间转换适宜性评价指标体系研究. *城乡规划*, 2020, 04:21-27+36. DOI: [10.12049/j.urp.202004004](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7i8oRR1PAr7RxjuAJk4dHXoglPLgph6zzWJVERiWIykxDzUTuc5CZfY8xW_wzITVZ1&uniplatform=NZKPT).<br/>**Xinyi Wang**, Yuqing Tang. Research on Suitability Evaluation Index System of Normal and Epidemic Space Conversion Facing Public Health Emergency. *Urban and Rural Planning*,  2020, 04:21-27+36. DOI: [10.12049/j.urp.202004004](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7i8oRR1PAr7RxjuAJk4dHXoglPLgph6zzWJVERiWIykxDzUTuc5CZfY8xW_wzITVZ1&uniplatform=NZKPT).
 
 ## Urban Mobility
@@ -84,7 +83,11 @@ Haixiao Pan, **Xinyi Wang**, Ya Gao, Song Ye, Minglei Chen
 13. 马程,**王欣宜**,卢源,张纯.城市轨道交通高架沿线街道空间的可步行性研究——以北京市四道口路和交大东路为例. *城市建筑*, 2018(30):43-48. DOI: [10.19892/j.cnki.csjz.2018.30.009](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iLik5jEcCI09uHa3oBxtWoOvxd0kE9WTN1j3gV3M85KEbgdCc0lDwblLdJi460pNY&uniplatform=NZKPT).<br/>Cheng Ma, **Xinyi Wang**, Yuan Lu, Chun Zhang. Walkability in Street Space along Urban Rail Transit Overpass: Case Study of Sidaokou Road and Jiaoda East Road in Beijing. *Urbanism and Architecture*, 2018, 30:43-48. DOI: [10.19892/j.cnki.csjz.2018.30.009](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iLik5jEcCI09uHa3oBxtWoOvxd0kE9WTN1j3gV3M85KEbgdCc0lDwblLdJi460pNY&uniplatform=NZKPT).
 
 
-
+# 🎖 Presentations
+- *2023/09*, How does the Opening of High-speed Rail (HSR) Affect the Land Cover Change in the Station Catchment Area? Empirical Research on Shanghai-Nanjing, Shanghai-Hangzhou, and Hangzhou-Ningbo HSR Corridors. *3rd International Workshop on High-Speed Rail Socioeconomic Impacts*, Naples, Italy (online).
+- *2023/07*, Spatial Distribution and Transport Accessibility Disparities of Knowledge-intensive Services (KIS): Evidence from Shanghai. *17th International Association for China Planning Conference (**IACP 2023**)*. Tianjin University, Tianjin, China.
+- *2023/06*, Spatial Heterogeneity Characteristics of Location and Public Transport Accessibility in High-Speed Railway Stations: An Analysis of Shanghai. *2023 World Transport Convention (**WTC 2023**)*. Wuhan, China.
+- *2021/09*, Research on Underground Walking System Development of urban Rail Transit Station: International Practice and Shanghai Exploration, *2020/2021 Annual Conference on Urban Planning in China*. Chengdu, China.
   
 # 🎖 Scholarships and honors
 - *2022/06*, Outstanding Graduate, Tongji University.
@@ -97,8 +100,10 @@ Haixiao Pan, **Xinyi Wang**, Ya Gao, Song Ye, Minglei Chen
 
 # 💬 Other academic activities
 - *2020/11 - 2020/12*, Research assistant (voluntary) at Lab for Digital & Mobile Governance (DMG), Fudan University, Shanghai, China.
+- *2018/11 - 2018/12*, Assistant urban planner, China Architecture Design & Research Group (CADG), Beijing, China. (full-time internship)
 - *2018/09*, Outstanding student at 2018 Summer school, College of Architecture and Urban Planning, Tongji University, Shanghai, China.
 - *2018/07*, Outstanding student at 2018 Summer school, School of Architecture and Urban Planning, Chongqing University, Chongqing, China.
 - *2018/07*, Outstanding student at 2018 Summer school, School of Architecture and Design, Beijing Jiaotong University, Beijing, China.
+- *2017/07 - 2017/08*, Assistant urban planner, China Architecture Design & Research Group (CADG), Beijing, China. (full-time internship)
 - *2016/07*, Volunteer at the 10th International Association for China Planning (IACP) Conference, Beijing, China. 
 - *2015/06*, Volunteer at the 2nd Beijing City Lab (BCL) Annual Conference, Beijing, China.  \| [\[video\]](https://github.com/)
