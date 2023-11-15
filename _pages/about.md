@@ -27,16 +27,19 @@ My research interest includes neural machine translation and computer vision. I 
 - *2019/09 - 2022/07*, Master of Engineering (M.Eng.), Urban Planning, **Tongji University**, Shanghai, China.
 - *2014/09 - 2019/06*, Bachelor of Engineering (B.Eng.), Urban Planning, **Beijing Jiaotong University**, Beijing, China.
 
+# 📖 Short-term training courses
+- *2023/07*, 2023 Technical University of Munich (TUM) - Tsinghua University (TSU) Summer School, **Tsinghua University**, Beijing, China.
+
 # 💻 Experience and Internships
 - *2023/09 - present*, Graduate teaching assisstant of the course "Urban Transport" at department of Urban Planning, **Tongji University**, Shanghai, China.
-- *2019/09 - 2022/08*, Assistant urban planner, **Shanghai Tongji Urban Planning & Design Institute (TJUPDI)**, Shanghai, China. Participate in the <u>National Key R&D Program of China<u>: Research on coordinated planning of urban underground space development. (part-time internship)
+- *2019/09 - 2022/08*, Assistant urban planner, **Shanghai Tongji Urban Planning & Design Institute (TJUPDI)**, Shanghai, China. Participate in the <u>National Key R&D Program of China</u>: Research on coordinated planning of urban underground space development. (part-time internship)
 - *2019/09 - 2022/01*, Undergraduate teaching assisstant, **Tongji University**, Shanghai, China.
-- *2021/02 - 2021/05*, Assistant urban planner, **Shenzhen Urban Transport Planning Center (SUTPC)**, Shenzhen, China. Participate in <u>GEF6 China Sustainable Cities Integrated Approach Pilot<u>: Formulation and implementation of transit-oriented development strategy and project management support for Shenzhen, funded by **World Bank**. (full-time internship)
+- *2021/02 - 2021/05*, Assistant urban planner, **Shenzhen Urban Transport Planning Center (SUTPC)**, Shenzhen, China. Participate in <u>GEF6 China Sustainable Cities Integrated Approach Pilot</u>: Formulation and implementation of transit-oriented development strategy and project management support for Shenzhen, funded by **World Bank**. (full-time internship)
 
 # 🔥 News
 - *2023/10*: &nbsp;🎉🎉 Two paper is accepted by Transportation Research Board (TRB 2024), Washington D.C., the United States!
 - *2023/09*: &nbsp;🎉🎉 Presented a conference paper at IW-HSR 2023 (Naples, Italy, remote)!
-- *2023/08*: &nbsp;🎉🎉 Volunteered at the summer design workshop on 15-minute barrier-free community life cycle!
+- *2023/08*: &nbsp;🎉🎉 Volunteered at the Summer Design Workshop on 15-Minute Barrier-Free Community Life Cycle in Caoyang, Shanghai!
 - *2023/07*: &nbsp;🎉🎉 Participated in 2023 TUM-THU Summer School in person (Tsinghua University)!
 - *2023/07*: &nbsp;🎉🎉 Presented a conference paper at IACP 2023 (Tianjin University, Tianjin, China)!
 - *2023/06*: &nbsp;🎉🎉 Presented a conference paper at WTC 2023 (Wuhan, China)!
@@ -63,9 +66,9 @@ Pan, Haixiao., **Wang, Xinyi.**, Gao, Ya., Ye, Song., Chen, Minglei.
 ## High-Speed Rail and Public Transport Accessibility
 1. **Wang, Xinyi.**, & Pan, Haixiao. (2024). Land Change Pattern in High-Speed Rail Station Area: Empirical Research on Yangtze River Delta Region in China from 2010 to 2020. In *Socioeconomic Impacts of High-Speed Rail Systems*.
 2. **Wang, Xinyi.**, Pan, Haixiao., Deng, Xiyin., & Cui, Jingjie. (2024). The Impact of Accessibility to High-Speed Railway Stations on Property Prices in Shanghai. In *103rd Transportation Research Board Annual Meeting (TRB 2024)*.
-3. Cui, Jingjie., Pan, Haixiao., & **Wang, Xinyi.**. (2024). Quality Measurement and Spatial Correlation Analysis of "15-Minute City" from the Perspective of Inclusive Development: A Case Study of Shanghai Downtown Area. In *103rd Transportation Research Board Annual Meeting (TRB 2024)*.
+3. Cui, Jingjie., Pan, Haixiao., & **Wang, Xinyi.** (2024). Quality Measurement and Spatial Correlation Analysis of "15-Minute City" from the Perspective of Inclusive Development: A Case Study of Shanghai Downtown Area. In *103rd Transportation Research Board Annual Meeting (TRB 2024)*.
 4. **Wang, Xinyi.**, Pan, Haixiao., & Cui, Jingjie. (2023). Spatial Distribution and Transport Accessibility Disparities of Knowledge-intensive Services (KIS): Evidence from Shanghai. In *17th International Association for China Planning (IACP 2023) Conference*.
-2. **王欣宜**,潘海啸. 高铁站区位与公交服务可达性的空间分异特征研究——以上海为例. *2023世界交通运输大会摘要集*. 中国武汉, 2023-06.<br/>**Wang, Xinyi.**, & Pan, Haixiao. (2023). Spatial Heterogeneity Characteristics of Location and Public Transport Accessibility in High-speed Railway Stations: An Analysis of Shanghai. *2023 World Transport Convention (WTC 2023)*.
+2. **王欣宜**,潘海啸. 高铁站区位与公交服务可达性的空间分异特征研究——以上海为例. *2023世界交通运输大会摘要集*. 中国武汉, 2023-06.<br/>**Wang, Xinyi.**, & Pan, Haixiao. (2023). Spatial Heterogeneity Characteristics of Location and Public Transport Accessibility in High-speed Railway Stations: An Analysis of Shanghai. In *2023 World Transport Convention (WTC 2023)*.
 3. Pan, Haixiao., **Wang, Xinyi.**, Gao, Ya., Ye, Song., & Chen, Minglei. (2023). Site Selection of High-speed Railway Stations on Travel Efficiency: An Example of Shanghai Hongqiao Hub. In *Socioeconomic Impacts of High-Speed Rail Systems*, 153-176. DOI: [10.1007/978-3-031-26340-8_10](https://link.springer.com/chapter/10.1007/978-3-031-26340-8_10).
 
 ## Underground Space Development
