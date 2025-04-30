@@ -21,15 +21,17 @@ Xinyi Wang is a PhD candidate and teaching assisstant for graduate students in t
 
 
 # 📖 Educations
-- *2022/09 - present*, Ph.D. candidate, Urban Planning, **Tongji University**, Shanghai, China.
-- *2019/09 - 2022/07*, Master of Engineering (M.Eng.), Urban Planning, **Tongji University**, Shanghai, China.
-- *2014/09 - 2019/06*, Bachelor of Engineering (B.Eng.), Urban Planning, **Beijing Jiaotong University**, Beijing, China.
+- *2022/09 - present*, Ph.D. candidate, Department of Urban Planning, **Tongji University**, Shanghai, China.
+- *2025/03 - present*, Visiting PhD researcher, Department of Civil, Architectural and Environmental Engineering, **University of Naples Federico II**, Naples, Italy.
+- *2019/09 - 2022/07*, Master of Science in Engineering (MSc in Eng), Department of Urban Planning, **Tongji University**, Shanghai, China.
+- *2014/09 - 2019/06*, Bachelor of Science in Engineering (BSc in Eng), Department of Urban Planning, **Beijing Jiaotong University**, Beijing, China.
 
 # 💻 Experience and Internships
-- *2023/09 - present*, Graduate teaching assisstant of the course "Urban Transport" at department of Urban Planning, **Tongji University**, Shanghai, China.
-- *2019/09 - 2022/08*, Assistant urban planner, **Shanghai Tongji Urban Planning & Design Institute (TJUPDI)**, Shanghai, China. Participate in the <u>National Key R&D Program of China</u>: Research on coordinated planning of urban underground space development. (part-time internship)
-- *2019/09 - 2022/01*, Undergraduate teaching assisstant, **Tongji University**, Shanghai, China.
-- *2021/02 - 2021/05*, Assistant urban planner, **Shenzhen Urban Transport Planning Center (SUTPC)**, Shenzhen, China. Participate in <u>GEF6 China Sustainable Cities Integrated Approach Pilot</u>: Formulation and implementation of transit-oriented development strategy and project management support for Shenzhen, **funded by World Bank**. (full-time internship)
+- *2022/09 - present*, Research Assistant of the Program of XXX. **Tongji University**, Shanghai, China.
+- *2023/09 - 2024/01*, Teaching Assisstant of the master's degree course "Urban Transport" at the Department of Urban Planning in the first academic year 2023-2024, **Tongji University**, Shanghai, China.
+- *2019/09 - 2022/08*, Research Assistant of the <u>National Key R&D Program of China</u>: Research on coordinated planning of urban underground space development, **Shanghai Tongji Urban Planning & Design Institute (TJUPDI)**, Shanghai, China.
+- *2019/09 - 2022/01*, Teaching Assisstant of the bachelor's degree course "Urban Road & Transport - I", **Tongji University**, Shanghai, China.
+- *2021/02 - 2021/05*, Research Assistant, **Shenzhen Urban Transport Planning Center (SUTPC)**, Shenzhen, China. Participate in <u>GEF6 China Sustainable Cities Integrated Approach Pilot</u>: Formulation and implementation of transit-oriented development strategy and project management support for Shenzhen, **funded by World Bank**. (full-time internship)
 
 # 🔥 News
 - *2024/01*: &nbsp;🎉🎉 Presented at TRB 2024 (Washington DC, US)!
