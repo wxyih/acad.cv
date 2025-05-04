@@ -33,31 +33,17 @@ Xinyi Wang is a PhD candidate and research assisstant in the Department of Urban
 - *2019/09 - 2022/01*, Teaching Assisstant of the bachelor's degree course "Urban Road & Transport - I", **Tongji University**, Shanghai, China.
 - *2021/02 - 2021/05*, Research Assistant, **Shenzhen Urban Transport Planning Center (SUTPC)**, Shenzhen, China. Participate in <u>GEF6 China Sustainable Cities Integrated Approach Pilot</u>: Formulation and implementation of transit-oriented development strategy and project management support for Shenzhen, **funded by World Bank**. (full-time internship)
 
-# 🔥 News
-- *2024/01*: &nbsp;🎉🎉 Presented at TRB 2024 (Washington DC, US)!
-- *2023/10*: &nbsp;🎉🎉 Two papers are accepted by 103rd Transportation Research Board (TRB 2024) Annual Meeting, Washington DC, the United States!
-- *2023/09*: &nbsp;🎉🎉 Presented at IW-HSR 2023 (Naples, Italy, remote)!
-- *2023/08*: &nbsp;🎉🎉 Volunteered at the Summer Design Workshop on 15-Minute Barrier-Free Community Life Cycle in Caoyang, Shanghai!
-- *2023/07*: &nbsp;🎉🎉 Participated in 2023 TUM-THU Summer School in person (Tsinghua University)!
-- *2023/07*: &nbsp;🎉🎉 Presented at IACP 2023 (Tianjin University, Tianjin, China)!
-- *2023/06*: &nbsp;🎉🎉 Presented at WTC 2023 (Wuhan, China)!
-- *2023/05*: &nbsp;🎉🎉 An abstract is accepted by the 3rd International Workshop on High-Speed Rail Socioeconomic Impacts (IW-HSR 2023, University of Naples Federco II), Italy (remote)!
-- *2023/04*: &nbsp;🎉🎉 An abstract is accepted by International Association for China Planning (IACP 2023) Annual Conference, Tianjin, China!
-- *2023/03*: &nbsp;🎉🎉 An abstract is accepted by World Transport Convention (WTC 2023), Wuhan, China!
-- *2022/11*: &nbsp;🎉🎉 Conference paper *"Measurement and Evaluation of Public Transport Accessibility in Community Life Circle: A Case Study of Yangpu, Shanghai"* is awarded as the **"Excellent paper"** in 2021/2022 Annual Conference on Urban Transportation Planning in China (Shanghai, China)!
-
 # 📝 Publications 
 
 ## High-Speed Rail and Public Transport
-1. **Xinyi Wang**, Haixiao Pan, Xiyin Deng, Jingjie Cui. (2025). The Impact of the Accessibility to High-Speed Rail Stations on Residential Property Prices in Shanghai. In *Socioeconomic Impacts of High-Speed Rail Systems. Springer Proceedings in Business and Economics. Springer*, 149-169. https://doi.org/10.1007/978-3-031-82528-6_8.
+1. **Xinyi Wang**, Haixiao Pan, Xiyin Deng, Jingjie Cui. (2025). The Impact of the Accessibility to High-Speed Rail Stations on Residential Property Prices in Shanghai. In *Socioeconomic Impacts of High-Speed Rail Systems. Springer Proceedings in Business and Economics. Springer*, 149-169. [https://doi.org/10.1007/978-3-031-82528-6_8](https://link.springer.com/chapter/10.1007/978-3-031-82528-6_8).
 2. **Xinyi Wang**, Haixiao Pan. (2024). Land Change Pattern in High-Speed Rail Station Area: Empirical Research on Yangtze River Delta Region in China from 2010 to 2020. In *Socioeconomic Impacts of High-Speed Rail Systems. Springer Proceedings in Business and Economics. Springer*, 315-334. [https://doi.org/10.1007/978-3-031-53684-7_15](https://link.springer.com/chapter/10.1007/978-3-031-53684-7_15).
-3. **Xinyi Wang**, Haixiao Pan, Xiyin Deng, Jingjie Cui. (2024). The Impact of Accessibility to High-Speed Railway Stations on Property Prices in Shanghai. In *103rd Transportation Research Board Annual Meeting (TRB 2024)*, Washington, D.C. 7-11 January, 2024.
-4. Jingjie Cui, Haixiao Pan, **Xinyi Wang**. (2024). Quality Measurement and Spatial Correlation Analysis of "15-Minute City" from the Perspective of Inclusive Development: A Case Study of Shanghai Downtown Area. In *103rd Transportation Research Board Annual Meeting (TRB 2024)*, Washington, D.C. 7-11 January, 2024.
-5. Haixiao Pan, **Xinyi Wang**, Ya Gao, Song Ye, Minglei Chen. (2023). Site Selection of High-speed Railway Stations on Travel Efficiency: An Example of Shanghai Hongqiao Hub. In *Socioeconomic Impacts of High-Speed Rail Systems*, 153-176. [https://doi.org/10.1007/978-3-031-26340-8_10](https://link.springer.com/chapter/10.1007/978-3-031-26340-8_10).
+3. **Xinyi Wang**, Haixiao Pan, Xiyin Deng, Jingjie Cui. (2024). The Impact of Accessibility to High-Speed Railway Stations on Property Prices in Shanghai. In *103rd Transportation Research Board Annual Meeting (TRB 2024)*, Washington, D.C., the United States.
+4. Haixiao Pan, **Xinyi Wang**, Ya Gao, Song Ye, Minglei Chen. (2023). Site Selection of High-speed Railway Stations on Travel Efficiency: An Example of Shanghai Hongqiao Hub. In *Socioeconomic Impacts of High-Speed Rail Systems*, 153-176. [https://doi.org/10.1007/978-3-031-26340-8_10](https://link.springer.com/chapter/10.1007/978-3-031-26340-8_10).
 
 ## Accessibility, Mobility and Inclusive Development
 1. Xia Hua, Haixiao Pan, **Xinyi Wang**, Jingjie Cui. (2025). Removing the Barriers to Constructing Barrier-Free Streets in Old Neighbourhoods: Evidence from Shanghai, *Urban Policy and Research*, [https://doi.org/10.1080/08111146.2025.2481512](https://www.tandfonline.com/doi/full/10.1080/08111146.2025.2481512).
-2. Jingjie Cui, Haixiao Pan, **Xinyi Wang**. (2024). Quality Measurement and Spatial Correlation Analysis of "15-Minute City" from the Perspective of Inclusive Development: A Case Study of Shanghai Downtown Area. In *103rd Transportation Research Board Annual Meeting (TRB 2024)*. Washington DC, the United States.
+4. Jingjie Cui, Haixiao Pan, **Xinyi Wang**. (2024). Quality Measurement and Spatial Correlation Analysis of "15-Minute City" from the Perspective of Inclusive Development: A Case Study of Shanghai Downtown Area. In *103rd Transportation Research Board Annual Meeting (TRB 2024)*, Washington, D.C., the United States.
 3. Xia Hua, Haixiao Pan, Jingjie Cui, **Xinyi Wang**. (2023). From Design to Practice: Removing the Barriers to Constructing Barrier-Free Streets in neighbourhoods. In *16th International Symposium on the Sustainable Development of Urban Transport System (THNS 2023)*. Shanghai, China.
 4. Jingjie Cui, Haixiao Pan, **Xinyi Wang**. (2023). Study on Living Circle Patterns and Barrier-Free Travel Characteristics of Weak Individuals: A Case Study of Four Communities in Shanghai. In *16th International Symposium on the Sustainable Development of Urban Transport System (THNS 2023)*. Shanghai, China.
 5. **Xinyi Wang**, Yuqing Tang. (2022). Measuring Coordinated Development Level around Metro Station Areas in New Towns in Megacity: A Comparative Analysis of Five New Towns in Shanghai. In *2022 2nd International Conference on Internet of Things and Smart City (IoTSC 2022)*. Xiamen, China, 122492L. DOI: [10.1117/12.2637156](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12249/122492L/Measuring-coordinated-development-level-around-metro-station-areas-in-new/10.1117/12.2637156.short?tab=ArticleLink&SSO=1).
@@ -107,3 +93,16 @@ Xinyi Wang is a PhD candidate and research assisstant in the Department of Urban
 - **Professor Haixiao Pan**, Department of Urban Planning, Tongji University.<br/>1239 Siping Road, Shanghai 200092, China<br/>Phone: (+86) 21 6598 2131<br/>Email: panhaixiao@tongji.edu.cn
 - **Professor Yuqing Tang**, Department of Urban Planning, Tongji University.<br/>1239 Siping Road, Shanghai 200092, China<br/>Phone: (+86) 21 6598 6963<br/>Email: tyqtju@163.com
 - **Professor Francesca Pagliara**, Department of Civil, Architectural and Environmental Engineering, University of Naples Federico II.<br/>Via Claudio, 21, Naples 80125, Italy<br/>Phone: (+39) 081 7683932<br/>Email: fparliar@unina.it
+
+# 🔥 News
+- *2024/01*: &nbsp;🎉🎉 Presented at TRB 2024 (Washington DC, US)!
+- *2023/10*: &nbsp;🎉🎉 Two papers are accepted by 103rd Transportation Research Board (TRB 2024) Annual Meeting, Washington DC, the United States!
+- *2023/09*: &nbsp;🎉🎉 Presented at IW-HSR 2023 (Naples, Italy, remote)!
+- *2023/08*: &nbsp;🎉🎉 Volunteered at the Summer Design Workshop on 15-Minute Barrier-Free Community Life Cycle in Caoyang, Shanghai!
+- *2023/07*: &nbsp;🎉🎉 Participated in 2023 TUM-THU Summer School in person (Tsinghua University)!
+- *2023/07*: &nbsp;🎉🎉 Presented at IACP 2023 (Tianjin University, Tianjin, China)!
+- *2023/06*: &nbsp;🎉🎉 Presented at WTC 2023 (Wuhan, China)!
+- *2023/05*: &nbsp;🎉🎉 An abstract is accepted by the 3rd International Workshop on High-Speed Rail Socioeconomic Impacts (IW-HSR 2023, University of Naples Federco II), Italy (remote)!
+- *2023/04*: &nbsp;🎉🎉 An abstract is accepted by International Association for China Planning (IACP 2023) Annual Conference, Tianjin, China!
+- *2023/03*: &nbsp;🎉🎉 An abstract is accepted by World Transport Convention (WTC 2023), Wuhan, China!
+- *2022/11*: &nbsp;🎉🎉 Conference paper *"Measurement and Evaluation of Public Transport Accessibility in Community Life Circle: A Case Study of Yangpu, Shanghai"* is awarded as the **"Excellent paper"** in 2021/2022 Annual Conference on Urban Transportation Planning in China (Shanghai, China)!
